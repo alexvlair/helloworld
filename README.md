@@ -1,2 +1,1 @@
-# helloworld
-My first test repository
+This is a test readme file.
